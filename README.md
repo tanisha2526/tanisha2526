@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: ...
 
- <a href="https://www.linkedin.com/in/tanishqa-pagidipalli-53622b289/">
+ <a href="https://www.linkedin.com/in/tanisha-kapila-786a78329/">
          <img src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
 
